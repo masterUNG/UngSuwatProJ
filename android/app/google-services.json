@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721500834706",
+    "project_id": "ungsuwatproj",
+    "storage_bucket": "ungsuwatproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721500834706:android:b3696ab353c77a3fc7cf4b",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungsuwatproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721500834706-tgb2rb8vqblmsi9pe99nns8egkbpl7k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtRSEzxqWThpvCWsVoiwtl_U0rMsROmqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721500834706-tgb2rb8vqblmsi9pe99nns8egkbpl7k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
